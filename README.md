@@ -1,4 +1,5 @@
 📊 Atliq Company - Sales & Revenue Dashboard (Power BI)
+
 📌 Overview
 This Power BI dashboard provides insights into revenue, sales trends, top markets, customers, and products for Atliq Company. It enables data-driven decision-making with interactive visualizations.
 
