@@ -17,3 +17,7 @@ This Power BI dashboard provides insights into revenue, sales trends, top market
 -Identifies high-performing markets & customers.
 -Helps forecast revenue trends & optimize sales.
 -Enhances strategic decision-making.
+
+
+![image](https://github.com/user-attachments/assets/d7768fc1-6cab-4be5-8794-e400b69a842e)
+
