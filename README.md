@@ -26,5 +26,3 @@ Visualizations allow a side-by-side comparison of revenue and sales volume acros
 ## Conclusion  
 The dashboard provides actionable insights into Atliq Company’s business performance by analyzing total revenue, market distribution, and customer/product effectiveness. It enables strategic decision-making by tracking month-over-month revenue trends and identifying high-performing segments. This helps in optimizing sales efforts, targeting key markets, and improving overall financial planning.
 
-![image](https://github.com/user-attachments/assets/06341587-35c6-450c-b324-2c49334d85b4)
-
